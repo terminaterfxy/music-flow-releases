@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "notes": "本次更新内容见发布页说明。",
-  "pub_date": "2026-08-20T14:22:26Z",
-  "url": "https://github.com/terminaterfxy/music-flow-releases/releases/download/v0.6.0/MusicFlow_0.6.0_x64-setup.exe",
+  "pub_date": "2026-08-20T15:03:59Z",
+  "url": "https://github.com/terminaterfxy/music-flow-releases/releases/download/v0.7.0/MusicFlow_0.7.0_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0prQWZpTmFYemhsSmsyK3ZlUHkyYzMyOEg5bUFMbm5oTDFwVXBhdmttaFY0bmIzWlJXZ3RvTHEwWFJmWFNhaW9Ed0lLUjQ5MkxoRFNadVFSRlVvaXBCRXNLL0tOdFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjM1NzQyCWZpbGU6TXVzaWMgRmxvd18wLjYuMF94NjQtc2V0dXAuZXhlCmhKU0xtc0ozSzhUdXMyc3FJUlAveFNObWxkdVhHbmlmeXI0ckE0enhHRlB5TGd3cGxqSXIzby85S0VtdHRoY3lWZjFLYm9MREw1TGFoSEJROTJBMkJnPT0K",
-      "url": "https://github.com/terminaterfxy/music-flow-releases/releases/download/v0.6.0/MusicFlow_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0prQWZpTmFYem5ZVkpnTGg3Sm1rVXRpUVhEUWFWMENUbXQ0MTRVYjgxNE9YcVNzMC9VajFCcWJadUpNcVBOUVpDODYyZ1VPb08vRFZscUlPcEMxdkpQWjVvZFZyOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjM4MjMzCWZpbGU6TXVzaWMgRmxvd18wLjcuMF94NjQtc2V0dXAuZXhlCmFTVFNxc3pIMEphMWoxZ3J1eHY1SVBXK1BRMDhGME93RXNCRUUxQlZZU3ZvdXNURVN6YmxLanYvbElUaUhYQU9sL3lNRWhPMDlkVEhSZ0c4aWw1RURnPT0K",
+      "url": "https://github.com/terminaterfxy/music-flow-releases/releases/download/v0.7.0/MusicFlow_0.7.0_x64-setup.exe"
     }
   }
 }
